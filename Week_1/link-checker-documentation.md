@@ -1,4 +1,13 @@
 # Link Checker Documentation
+**Name: Manh Cuong Pham**
+
+## Eigenständigkeitserklärung
+Hiermit erkläre ich, dass ich die vorliegende Arbeit eigenständig und ohne fremde Hilfe angefertigt und mich dabei keiner anderen als der von mir ausdrücklich bezeichneten Hilfsmittel bedient habe.
+
+**Hilfsmittel:**
+- Python mit den Bibliotheken requests, BeautifulSoup, os
+- Visual Studio Code als Entwicklungsumgebung
+- Claude for generating initial code
 
 ## Overview
 
